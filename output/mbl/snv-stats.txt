@@ -1,0 +1,12 @@
+Passed_Calls
+Strelka2	2825
+Mutect2	2524
+FreeBayes	8065
+VarDict	50427
+VarScan	363787
+Atleast1	411746
+Atleast2	11668
+Atleast3	2031
+Atleast4	1232
+All5	951
+SMuRF_SNV	1150

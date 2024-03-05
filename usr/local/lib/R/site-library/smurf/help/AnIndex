@@ -1,0 +1,9 @@
+CDSannotation_indel	CDSannotation_indel
+CDSannotation_snv	CDSannotation_snv
+indelRFpredict	indelRFpredict
+newcutoffs	newcutoffs
+parsevcf_allfeaturesall	parsevcf_allfeaturesall
+read.vcf	read.vcf
+save.files	save.files
+smurf	smurf
+snvRFpredict	snvRFpredict

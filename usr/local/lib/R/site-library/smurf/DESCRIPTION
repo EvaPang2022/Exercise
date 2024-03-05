@@ -1,0 +1,30 @@
+Package: smurf
+Title: Somatic Mutation Calling using a RandomForest Model
+Version: 3.0.1
+Authors@R: c(
+    person("Mengyuan", "Pang", email =  "pangmy@gis.a-star.edu.sg", role = c("ctb", "cre")),
+    person("Weitai", "Huang",role = c("aut")))	
+Description: https://github.com/skandlab/SMuRF
+Depends: R (>= 3.5.0)
+License: MIT
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.3.9000
+RemoteType: github
+RemoteHost: api.github.com
+RemoteRepo: SMuRF
+RemoteUsername: skandlab
+RemoteRef: HEAD
+RemoteSha: 8fcfd1e668bd123117c9b59d028302d2cf6da7d9
+RemoteSubdir: smurf
+GithubRepo: SMuRF
+GithubUsername: skandlab
+GithubRef: HEAD
+GithubSHA1: 8fcfd1e668bd123117c9b59d028302d2cf6da7d9
+GithubSubdir: smurf
+NeedsCompilation: no
+Packaged: 2024-03-05 00:57:58 UTC; root
+Author: Mengyuan Pang [ctb, cre],
+  Weitai Huang [aut]
+Maintainer: Mengyuan Pang <pangmy@gis.a-star.edu.sg>
+Built: R 4.3.2; ; 2024-03-05 00:58:15 UTC; unix

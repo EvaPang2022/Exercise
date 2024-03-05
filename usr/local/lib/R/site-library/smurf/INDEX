@@ -1,0 +1,10 @@
+CDSannotation_indel     indelRF-Annotations Step 3 Annotations
+CDSannotation_snv       snvRF-Annotations Step 3 Annotations
+indelRFpredict          indelRF-Predict
+newcutoffs              newcutoffs
+parsevcf_allfeaturesall
+                        parsevcf
+read.vcf                parsevcf
+save.files              save.files
+smurf                   SMuRF v3.0.1
+snvRFpredict            snvRF-Predict
